@@ -1,7 +1,54 @@
-# プロフィール
+## 👣 プロフィール
 
-使用言語
+やあ （´・ω・｀)
+ようこそ、バーボンハウスへ。
+このテキーラはサービスだから、まず飲んで落ち着いて欲しい。
 
+うん、「また」なんだ。済まない。
+仏の顔もって言うしね、謝って許してもらおうとも思っていない。
+
+でも、この項目を見たとき、君は、きっと言葉では言い表せない「ときめき」みたいなものを感じてくれたと思う。
+殺伐とした世の中で、そういう気持ちを忘れないで欲しい
+そう思って、この項目を作ったんだ。
+
+じゃあ、注文を聞こうか。
+
+
+## 🏆  Languages
+
+![](https://img.shields.io/badge/php-2.5year-red.svg?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/JavaScript-2.5year-blue.svg?style=for-the-badge&logo=Javascript)
+![](https://img.shields.io/badge/Ruby-0.2year-yellow.svg?style=for-the-badge&logo=Ruby)
+![](https://img.shields.io/badge/MySQL-2.5year-purple.svg?style=for-the-badge&logo=MySQL)
+
+![](https://img.shields.io/badge/apache-2.5year-red.svg?style=for-the-badge&logo=apache)
+![](https://img.shields.io/badge/linux-2.5year-blue.svg?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/aws-0.2year-yellow.svg?style=for-the-badge&logo=aws)
+
+
+## 🐳  FrameWork
+
+![](https://img.shields.io/badge/cakephp-2.5year-red.svg?style=for-the-badge&logo=cakephp)
+![](https://img.shields.io/badge/JQuery-2.5year-blue.svg?style=for-the-badge&logo=JQuery)
+![](https://img.shields.io/badge/Vue.js-0.2year-yellow.svg?style=for-the-badge&logo=Laravel)
+![](https://img.shields.io/badge/JQuery-0.5year-purple.svg?style=for-the-badge&logo=Vue.js)
+
+![](https://img.shields.io/badge/RubyOnRails-0.1year-red.svg?style=for-the-badge&logo=RubyonRails)
+
+## 🧰  Tools 
+
+![](https://img.shields.io/badge/git-2.5year-red.svg?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/docker-2.5year-blue.svg?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/slack-0.2year-yellow.svg?style=for-the-badge&logo=slack)
+![](https://img.shields.io/badge/chatwork-0.5year-purple.svg?style=for-the-badge&logo=chatwork)
+
+![](https://img.shields.io/badge/Vim-2.5year-red.svg?style=for-the-badge&logo=Vim)
+![](https://img.shields.io/badge/VSCODE-2.5year-blue.svg?style=for-the-badge&logo=VisualStudioCode)
+
+
+  
+![](https://img.shields.io/badge/cakephp-2.5year-red.svg?style=for-the-badge&logo=cakephp)
+    <img src="https://img.shields.io/badge/cakephp-2.5year-red.svg?style=for-the-badge&logo=cakephp">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -49,8 +96,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scrymee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=scrymee)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+![image](https://user-images.githubusercontent.com/55278680/132979225-44ef5619-75d5-4eff-85bf-6d2fa0311ee4.png)
 
 
 ### Hi there 👋
