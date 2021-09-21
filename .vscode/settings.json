@@ -1,0 +1,29 @@
+{
+    "vsnotes.defaultNotePath": "VSNOTE_SAVE_DIR_PATH",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "editor.fontLigatures": null,
+
+    //vim editor
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.hlsearch": true,
+
+    //dafault terminal
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+
+    //paste image setting
+    "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+    "pasteImage.path": "${currentFileDir}/img",
+    "pasteImage.prefix":"./", 
+    "pasteImage.showFilePathConfirmInputBox":false,
+    "pasteImage.filePathConfirmInputBoxMode":"onlyName",
+
+    "extensions.ignoreRecommendations": false,
+}
