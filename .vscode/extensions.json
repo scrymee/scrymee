@@ -1,0 +1,29 @@
+{
+    "recommendations": [
+        //required
+        "ms-ceintl.vscode-language-pack-ja",
+        "patricklee.vsnotes",
+        "vscodevim.vim",
+        //design
+        "pkief.material-icon-theme",
+        //git
+        "mhutchie.git-graph",
+        //markdown
+        "bierner.markdown-emoji",
+        "bierner.markdown-preview-github-styles",
+        "bierner.markdown-yaml-preamble",
+        "hnw.vscode-auto-open-markdown-preview",
+        "mushan.vscode-paste-image",
+        "yzhang.markdown-all-in-one",
+        "bierner.github-markdown-preview",
+        "bierner.markdown-checkbox",
+        //code
+        "coenraads.bracket-pair-colorizer",
+        "oderwat.indent-rainbow",
+        "streetsidesoftware.code-spell-checker",
+        "formulahendry.auto-close-tag",
+        "davidanson.vscode-markdownlint",
+        //others
+        "hediet.vscode-drawio",
+    ]
+}
