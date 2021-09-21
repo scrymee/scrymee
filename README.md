@@ -1,18 +1,10 @@
 ## 👣 プロフィール
 
-やあ （´・ω・｀)
-ようこそ、バーボンハウスへ。
-このテキーラはサービスだから、まず飲んで落ち着いて欲しい。
-
-うん、「また」なんだ。済まない。
-仏の顔もって言うしね、謝って許してもらおうとも思っていない。
-
-でも、この項目を見たとき、君は、きっと言葉では言い表せない「ときめき」みたいなものを感じてくれたと思う。
-殺伐とした世の中で、そういう気持ちを忘れないで欲しい
-そう思って、この項目を作ったんだ。
-
-じゃあ、注文を聞こうか。
-
+  <a href="http://twitter.com/pm_767">
+    <img height="20" src="https://img.shields.io/twitter/follow/pm_767?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  
+[![](https://img.shields.io/twitter/follow/pm_767?label=Twitter&logo=twitter&style=for-the-badge)](http://twitter.com/pm_767)
 
 ## 🏆  Languages
 
