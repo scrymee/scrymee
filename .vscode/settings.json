@@ -27,9 +27,6 @@
 
     "extensions.ignoreRecommendations": false,
     "files.eol": "\n",
-
-    // Todo: change
-    "vsnotes.defaultNotePath": "VSNOTE_DEFAULT_NOTE_PATH",
     "vsnotes.defaultSnippet": {
 
         "langId": "markdown",
@@ -58,11 +55,13 @@
         },
     ],
     "vsnotes.templates": [
-        "programming",
-        "プログラミング",
-        "ツール",
-        "生活",
-        "読書"
+        "プログラミング(p/)",
+        "ツール(t/)",
+        "生活(l/)",
+        "読書(r/)",
+        "内面(m/)"
+
     ],
     "explorer.confirmDelete": false,
+    "vsnotes.defaultNotePath": "/xxx/xxx/xxx/xxx",
 }
