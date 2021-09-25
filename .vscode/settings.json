@@ -1,10 +1,9 @@
 {
-    "vsnotes.defaultNotePath": "VSNOTE_SAVE_DIR_PATH",
     "workbench.iconTheme": "material-icon-theme",
     "editor.wordWrap": "on",
     "editor.fontLigatures": null,
 
-    //vim editor
+
     "vim.insertModeKeyBindings": [
         {
             "before": ["j", "j"],
@@ -14,12 +13,12 @@
     "vim.hlsearch": true,
     "vim.useSystemClipboard": true,
 
-    //dafault terminal
+
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "security.workspace.trust.untrustedFiles": "open",
     "explorer.confirmDragAndDrop": false,
 
-    //paste image setting
+
     "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
     "pasteImage.path": "${currentFileDir}/img",
     "pasteImage.prefix":"./", 
@@ -27,4 +26,43 @@
     "pasteImage.filePathConfirmInputBoxMode":"onlyName",
 
     "extensions.ignoreRecommendations": false,
+    "files.eol": "\n",
+
+    // Todo: change
+    "vsnotes.defaultNotePath": "VSNOTE_DEFAULT_NOTE_PATH",
+    "vsnotes.defaultSnippet": {
+
+        "langId": "markdown",
+        "name": "vsnotes"
+    },
+    "vsnotes.noteTitleConvertSpaces": " ",
+    "vsnotes.defaultNoteTitle": "{title}.{ext}",
+    "vsnotes.tokens": [
+        {
+            "type": "datetime",
+            "token": "{dt}",
+            "format": "YYYYMMDD",
+            "description": "Insert formatted datetime."
+        },
+        {
+            "type": "title",
+            "token": "{title}",
+            "description": "Insert note title from input box.",
+            "format": "Untitled"
+        },
+        {
+            "type": "extension",
+            "token": "{ext}",
+            "description": "Insert file extension.",
+            "format": "md"
+        },
+    ],
+    "vsnotes.templates": [
+        "programming",
+        "プログラミング",
+        "ツール",
+        "生活",
+        "読書"
+    ],
+    "explorer.confirmDelete": false,
 }
