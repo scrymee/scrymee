@@ -12,7 +12,7 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"vsnote_template_プログラミング": {
+	"vsnote_template_プログラミング(p/)": {
 	"prefix": "vsnote_template_programming",
 	"body": [
 		"---",
@@ -25,7 +25,7 @@
 	],
 	"description": "コーディングに関するメモ",
 	},
-	"vsnote_template_読書": {
+	"vsnote_template_読書(r/)": {
 	"prefix": "vsnote_template_reading",
 	"body": [
 		"---",
@@ -38,7 +38,7 @@
 	],
 	"description": "読書に関するメモ",
 	},
-	"vsnote_template_ツール": {
+	"vsnote_template_ツール(t/)": {
 	"prefix": "vsnote_template_tool",
 	"body": [
 		"---",
@@ -51,7 +51,7 @@
 	],
 	"description": "ツールに関するメモ",
 	},
-	"vsnote_template_生活": {
+	"vsnote_template_生活(l/)": {
 	"prefix": "vsnote_template_lifestyle",
 	"body": [
 		"---",
@@ -63,5 +63,18 @@
 		"\n",
 	],
 	"description": "ライフスタイルに関するメモ",
+	},
+	"vsnote_template_内面(m/)": {
+	"prefix": "vsnote_template_myself",
+	"body": [
+		"---",
+		"tags:",
+		"\t- myself",
+		"---",
+		"\n",
+		"# $TM_FILENAME_BASE",
+		"\n",
+	],
+	"description": "内面に関するメモ",
 	},
 }
