@@ -1,41 +1,37 @@
 ## 👣 プロフィール
 
-  <a href="http://twitter.com/pm_767">
-    <img height="20" src="https://img.shields.io/twitter/follow/pm_767?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  
-[![](https://img.shields.io/twitter/follow/pm_767?label=Twitter&logo=twitter&style=for-the-badge)](http://twitter.com/pm_767)
+Enjoy Coding 🎉
 
 ## 🏆  Languages
 
-![](https://img.shields.io/badge/php-2.5year-red.svg?style=for-the-badge&logo=php)
-![](https://img.shields.io/badge/JavaScript-2.5year-blue.svg?style=for-the-badge&logo=Javascript)
-![](https://img.shields.io/badge/Ruby-0.2year-yellow.svg?style=for-the-badge&logo=Ruby)
-![](https://img.shields.io/badge/MySQL-2.5year-purple.svg?style=for-the-badge&logo=MySQL)
+![](https://img.shields.io/badge/php-5year-red.svg?style=for-the-badge&logo=php)
+![](https://img.shields.io/badge/JavaScript-5year-blue.svg?style=for-the-badge&logo=Javascript)
+![](https://img.shields.io/badge/Ruby-1year-yellow.svg?style=for-the-badge&logo=Ruby)
+![](https://img.shields.io/badge/MySQL-5year-purple.svg?style=for-the-badge&logo=MySQL)
 
-![](https://img.shields.io/badge/apache-2.5year-red.svg?style=for-the-badge&logo=apache)
-![](https://img.shields.io/badge/linux-2.5year-blue.svg?style=for-the-badge&logo=linux)
+![](https://img.shields.io/badge/apache-5year-red.svg?style=for-the-badge&logo=apache)
+![](https://img.shields.io/badge/linux-5year-blue.svg?style=for-the-badge&logo=linux)
 ![](https://img.shields.io/badge/aws-1year-yellow.svg?style=for-the-badge&logo=aws)
 
 
 ## 🐳  FrameWork
 
-![](https://img.shields.io/badge/cakephp-2.5year-red.svg?style=for-the-badge&logo=cakephp)
-![](https://img.shields.io/badge/JQuery-2.5year-blue.svg?style=for-the-badge&logo=JQuery)
-![](https://img.shields.io/badge/Vue.js-0.2year-yellow.svg?style=for-the-badge&logo=Laravel)
-![](https://img.shields.io/badge/JQuery-1year-purple.svg?style=for-the-badge&logo=Vue.js)
+![](https://img.shields.io/badge/cakephp-3year-red.svg?style=for-the-badge&logo=cakephp)
+![](https://img.shields.io/badge/JQuery-5year-blue.svg?style=for-the-badge&logo=JQuery)
+![](https://img.shields.io/badge/Vue.js-1year-yellow.svg?style=for-the-badge&logo=Laravel)
+![](https://img.shields.io/badge/JQuery-5year-purple.svg?style=for-the-badge&logo=Vue.js)
 
 ![](https://img.shields.io/badge/RubyOnRails-0.1year-red.svg?style=for-the-badge&logo=RubyonRails)
 
 ## 🧰  Tools 
 
-![](https://img.shields.io/badge/git-2.5year-red.svg?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/git-5year-red.svg?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/docker-1year-blue.svg?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/slack-2year-yellow.svg?style=for-the-badge&logo=slack)
+![](https://img.shields.io/badge/slack-5year-yellow.svg?style=for-the-badge&logo=slack)
 ![](https://img.shields.io/badge/chatwork-1year-purple.svg?style=for-the-badge&logo=chatwork)
 
-![](https://img.shields.io/badge/Vim-2.5year-red.svg?style=for-the-badge&logo=Vim)
-![](https://img.shields.io/badge/VSCODE-2.5year-blue.svg?style=for-the-badge&logo=VisualStudioCode)
+![](https://img.shields.io/badge/Vim-5year-red.svg?style=for-the-badge&logo=Vim)
+![](https://img.shields.io/badge/VSCODE-5year-blue.svg?style=for-the-badge&logo=VisualStudioCode)
 
 
 
@@ -47,23 +43,52 @@
 
 [ランダムテキストジェネレーターくん](https://scrymee.github.io/textGenerator)
 
-ローカル開発環境で、デモデータを登録するためのランダムテキストを作成するツール。
-無意味な文字の羅列だと、その違和感が気になってしまうので、主語・述語・接続詞を表示する。絵文字も対応
+**概要**
+ランダムテキストを作成するツールです
+、主語・述語・接続詞を表示する。絵文字も対応
+
+**作成した経緯**
+開発環境でデモデータを作成する時に、「あああああ、てすと」などばかりだと実態が見えてこないケースがありました
+このような無意味な文字の羅列だと、違和感を覚えてしまうのである程度改善できないかという思いで作成しました。
+
+英語であれば、「Lorem ipsum」があるのですが、日本語版が存在しないなあと思って作成しました。
+
+**心がけた点**
+- 主語・述語・接続詞などを一定のルールでランダム表示することで、違和感を減らしました
+- 絵文字に対応して、レビュー投稿サイトのようなダミー感想を作成できるようにしました
 
 ### LINE履歴ジェネレーター
 
 [LINE Viewer](https://scrymee.github.io/LINEHistoryDesignGenerator/)
 
-友人がLINEの機種変更で履歴の移行に失敗したと聞き作成。
-下記手順により取得したトーク履歴を貼り付けることで、味気ないテキストをLINE風に表現する。
+**作成した経緯**
+友人がLINEの機種変更で履歴の移行に失敗したと聞いて、作成しました。
+LINEのトーク履歴は味気ないテキストですが、それをLINE風に表現することができます
 
+次に記す手順でLINEのトーク履歴を取得できます。
 `トーク画面 > ハンバーガーメニュー > その他 > トーク履歴を送信`
 
-JSとCSSとHTMLのみで作成
+
+
+### ChatGPTプロンプトコピーくん 
+
+[copyClipboard](https://github.com/scrymee/copyClipboardMsg)
+
+**概要**
+そのプロンプトを手軽に出力できるように作成したツールです。
+Chrome拡張機能で読み込ませ、Iconを押下し適切なプロンプトをクリップボードにコピーします
+
+**作成した経緯**
+ChatGPTで質問した結果のサマリーを出力したり、要約を作ることが増えました。
+「毎回コピーしたり手打ちするのは、面倒だなあ」と思ったのがきっかけです
+
+**心がけた点**
+- 手軽にプロンプトを追加・削除するために、オブジェクトで切り出しました
+- コピーが完了したらメッセージを出し、一定時間後にモーダルを閉じるように設定しました（`window.close()`）
 
 ## 💬  連絡先
 
-@pm_767
+@eb0s_
 
 
 ## 💻  GitHub
