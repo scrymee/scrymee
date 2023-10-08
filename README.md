@@ -1,8 +1,6 @@
-## 👣 プロフィール
-
 Enjoy Coding 🎉
 
-## 🏆  Languages
+# 🏆  Languages
 
 ![](https://img.shields.io/badge/php-5year-red.svg?style=for-the-badge&logo=php)
 ![](https://img.shields.io/badge/JavaScript-5year-blue.svg?style=for-the-badge&logo=Javascript)
@@ -14,7 +12,7 @@ Enjoy Coding 🎉
 ![](https://img.shields.io/badge/aws-1year-yellow.svg?style=for-the-badge&logo=aws)
 
 
-## 🐳  FrameWork
+# 🐳  FrameWork
 
 ![](https://img.shields.io/badge/cakephp-3year-red.svg?style=for-the-badge&logo=cakephp)
 ![](https://img.shields.io/badge/JQuery-5year-blue.svg?style=for-the-badge&logo=JQuery)
@@ -23,7 +21,7 @@ Enjoy Coding 🎉
 
 ![](https://img.shields.io/badge/RubyOnRails-0.1year-red.svg?style=for-the-badge&logo=RubyonRails)
 
-## 🧰  Tools 
+# 🧰  Tools 
 
 ![](https://img.shields.io/badge/git-5year-red.svg?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/docker-1year-blue.svg?style=for-the-badge&logo=docker)
@@ -35,7 +33,7 @@ Enjoy Coding 🎉
 
 
 
-## 🦐  Released Products
+# 🦐  Released Products
 
 ## 1. ランダムテキストジェネレーターくん
 
@@ -44,10 +42,12 @@ Enjoy Coding 🎉
 [ランダムテキストジェネレーターくん](https://scrymee.github.io/textGenerator)
 
 **概要**
+
 ランダムテキストを作成するツールです
-、主語・述語・接続詞を表示する。絵文字も対応
+主語・述語・接続詞を表示する。絵文字も対応
 
 **作成した経緯**
+
 開発環境でデモデータを作成する時に、「あああああ、てすと」などばかりだと実態が見えてこないケースがありました
 このような無意味な文字の羅列だと、違和感を覚えてしまうのである程度改善できないかという思いで作成しました。
 
@@ -57,35 +57,45 @@ Enjoy Coding 🎉
 - 主語・述語・接続詞などを一定のルールでランダム表示することで、違和感を減らしました
 - 絵文字に対応して、レビュー投稿サイトのようなダミー感想を作成できるようにしました
 
+------
+
 ## 2. LINE履歴ジェネレーター
 ![image](https://github.com/scrymee/scrymee/assets/55278680/af3d0427-41a6-48ee-8403-ffcd0de9b747)
 
 [LINE Viewer](https://scrymee.github.io/LINEHistoryDesignGenerator/)
 
 **作成した経緯**
+
 友人がLINEの機種変更で履歴の移行に失敗したと聞いて、作成しました。
 LINEのトーク履歴は味気ないテキストですが、それをLINE風に表現することができます
 
 次に記す手順でLINEのトーク履歴を取得できます。
 `トーク画面 > ハンバーガーメニュー > その他 > トーク履歴を送信`
 
-
+-----
 
 ## 3. ChatGPTプロンプトコピーくん 
 
 [copyClipboard](https://github.com/scrymee/copyClipboardMsg)
 
 **概要**
+
 そのプロンプトを手軽に出力できるように作成したツールです。
 Chrome拡張機能で読み込ませ、Iconを押下し適切なプロンプトをクリップボードにコピーします
 
 **作成した経緯**
+
 ChatGPTで質問した結果のサマリーを出力したり、要約を作ることが増えました。
 「毎回コピーしたり手打ちするのは、面倒だなあ」と思ったのがきっかけです
 
 **心がけた点**
+
 - 手軽にプロンプトを追加・削除するために、オブジェクトで切り出しました
 - コピーが完了したらメッセージを出し、一定時間後にモーダルを閉じるように設定しました（`window.close()`）
+
+
+
+-----
 
 ## 4. お題メーカー
 
@@ -98,6 +108,7 @@ ChatGPTで質問した結果のサマリーを出力したり、要約を作る�
 特定の単語をお題となるゲームにて、独自性のあるテーマを導入できます。
 
 **作成した経緯**
+
 HTMLやCSSの包括的な学習と・実装の一連のフローを掴む目的に基づいて作成しました。その過程を通して再現性のフローを再確認しました。
 
 **心がけた点**
@@ -106,8 +117,8 @@ HTMLやCSSの包括的な学習と・実装の一連のフローを掴む目的�
 - アニメーションは`animation`と`transform`で実現できることがわかった
 - サイトの写経と分析を通して`flex`と余白を活用するとそれっぽくなることを検証した
 
-[ランダムお題メーカー](https://github.com/scrymee/odaiMaker)
-
+[GitHub](https://github.com/scrymee/odaiMaker)
+[ランダムお題メーカー](https://scrymee.github.io/odaiMaker/)
 
 
 ## 💬  連絡先
