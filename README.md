@@ -86,6 +86,13 @@ ChatGPTで質問した結果のサマリーを出力したり、要約を作る�
 - 手軽にプロンプトを追加・削除するために、オブジェクトで切り出しました
 - コピーが完了したらメッセージを出し、一定時間後にモーダルを閉じるように設定しました（`window.close()`）
 
+### お題メーカー
+ランダムなお題を表示するツール。HTMLとCSSのモダンデザインを作るために作成
+[ランダムお題メーカー](https://github.com/scrymee/odaiMaker)
+
+![image](https://github.com/scrymee/scrymee/assets/55278680/24a06361-328b-43de-8ddb-97088e226cce)
+
+
 ## 💬  連絡先
 
 @eb0s_
