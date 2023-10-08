@@ -37,7 +37,7 @@ Enjoy Coding 🎉
 
 ## 🦐  Released Products
 
-### ランダムテキストジェネレーターくん
+## ランダムテキストジェネレーターくん
 
 ![image](https://user-images.githubusercontent.com/55278680/132979225-44ef5619-75d5-4eff-85bf-6d2fa0311ee4.png)
 
@@ -57,7 +57,7 @@ Enjoy Coding 🎉
 - 主語・述語・接続詞などを一定のルールでランダム表示することで、違和感を減らしました
 - 絵文字に対応して、レビュー投稿サイトのようなダミー感想を作成できるようにしました
 
-### LINE履歴ジェネレーター
+## LINE履歴ジェネレーター
 
 [LINE Viewer](https://scrymee.github.io/LINEHistoryDesignGenerator/)
 
@@ -67,10 +67,11 @@ LINEのトーク履歴は味気ないテキストですが、それをLINE風に
 
 次に記す手順でLINEのトーク履歴を取得できます。
 `トーク画面 > ハンバーガーメニュー > その他 > トーク履歴を送信`
+![image](https://github.com/scrymee/scrymee/assets/55278680/af3d0427-41a6-48ee-8403-ffcd0de9b747)
 
 
 
-### ChatGPTプロンプトコピーくん 
+## ChatGPTプロンプトコピーくん 
 
 [copyClipboard](https://github.com/scrymee/copyClipboardMsg)
 
@@ -86,7 +87,7 @@ ChatGPTで質問した結果のサマリーを出力したり、要約を作る�
 - 手軽にプロンプトを追加・削除するために、オブジェクトで切り出しました
 - コピーが完了したらメッセージを出し、一定時間後にモーダルを閉じるように設定しました（`window.close()`）
 
-### お題メーカー
+## お題メーカー
 ランダムなお題を表示するツール。HTMLとCSSのモダンデザインを作るために作成
 [ランダムお題メーカー](https://github.com/scrymee/odaiMaker)
 
